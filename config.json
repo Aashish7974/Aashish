@@ -3,7 +3,7 @@
    "ip": "Aashish_SMP.aternos.me",
    "login-cmd": "/login (aashish3155)",
    "login-enabled": "true",
-   "name": "AFK._.Bot",
+   "name": "AFKBot",
    "port": 45445,
    "register-cmd": "/register (aashish3155(remember_no_spaces)) (aashish3155(remember_no_spaces))"
 }
